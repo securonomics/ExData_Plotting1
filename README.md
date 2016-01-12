@@ -2,3 +2,5 @@
 ## Securonomics
 
 All charts and scripts are in their respective files.
+
+Completed.
